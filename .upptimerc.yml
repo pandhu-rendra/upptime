@@ -11,13 +11,10 @@ sites:
     url: 128.199.223.57
     check: "tcp-ping"
     port: 80
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: PVL-1
+    url: 128.199.189.59
     check: "tcp-ping"
-    ipv6: true
+    port: 80
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
