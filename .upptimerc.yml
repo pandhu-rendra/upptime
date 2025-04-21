@@ -26,7 +26,7 @@ status-website:
   name: ValareCloud
   introTitle: "This is where all ValareCloud nodes are monitored."
   introMessage: Stay up to date with the latest service updates from ValareCloud
-  theme: "light"
+  theme: "night"
   navbar:
     - title: Status
       href: /
