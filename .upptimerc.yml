@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://cdn.discordapp.com/icons/1296471919595487343/ccce23d81a79a021ee4ec27de2b955c5.png
   name: ValareCloud
   introTitle: "✅ All Systems Operational"
-  introMessage: Stay up to date with the latest service updates from Caligo
+  introMessage: Stay up to date with the latest service updates from ValareCloud
   navbar:
     - title: Status
       href: /
