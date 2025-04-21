@@ -7,8 +7,10 @@ sites:
     url: https://panel.valarecloud.store
   - name: Billing
     url: https://bill.valarecloud.store
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: SH-1
+    url: 128.199.223.57
+    check: "tcp-ping"
+    port: 80
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
