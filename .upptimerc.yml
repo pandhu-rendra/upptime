@@ -22,6 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.valarecloud.store
   # baseUrl: /your-repo-name
+  favicon: https://media.discordapp.net/attachments/1297526444574113855/1363892425055146344/VALARECLOUD_-_POLOSAN.png?ex=6807af4e&is=68065dce&hm=392eebbeae390d6be65464dc6641907b85225f4de4804a02c966b1eca146e0f5&=&format=webp&quality=lossless
   logoUrl: https://media.discordapp.net/attachments/1297526444574113855/1363892425055146344/VALARECLOUD_-_POLOSAN.png?ex=6807af4e&is=68065dce&hm=392eebbeae390d6be65464dc6641907b85225f4de4804a02c966b1eca146e0f5&=&format=webp&quality=lossless
   name: ValareCloud
   introTitle: "This is where all ValareCloud nodes are monitored."
