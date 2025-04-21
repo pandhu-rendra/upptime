@@ -26,6 +26,7 @@ status-website:
   name: ValareCloud
   introTitle: "✅ All Systems Operational"
   introMessage: Stay up to date with the latest service updates from ValareCloud
+  theme: "light"
   navbar:
     - title: Status
       href: /
