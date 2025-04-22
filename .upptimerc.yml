@@ -40,7 +40,7 @@ status-website:
       href: https://panel.valarecloud.store
 
 i18n:
-  footer: Powered by ValareCloud
+  footer: Powered by [ValareCloud](https://bill.valarecloud.store)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
