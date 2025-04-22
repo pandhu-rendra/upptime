@@ -23,6 +23,10 @@ sites:
     url: 139.59.240.217
     check: "tcp-ping"
     port: 80
+  - name: PVL-4
+    url: 206.189.82.20
+    check: "tcp-ping"
+    port: 22
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
