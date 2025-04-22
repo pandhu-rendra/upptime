@@ -10,21 +10,49 @@ sites:
   - name: SH-1
     url: 128.199.223.57
     check: "tcp-ping"
-    port: 80
+    port: 22
   - name: PVL-1
     url: 128.199.189.59
     check: "tcp-ping"
-    port: 80
+    port: 22
   - name: PVL-2
     url: 152.42.242.111
     check: "tcp-ping"
-    port: 80
+    port: 22
   - name: PVL-3
     url: 139.59.240.217
     check: "tcp-ping"
-    port: 80
+    port: 22
   - name: PVL-4
     url: 206.189.82.20
+    check: "tcp-ping"
+    port: 22
+  - name: PVL-5
+    url: 146.190.83.60
+    check: "tcp-ping"
+    port: 22
+  - name: PVL-6
+    url: 159.223.81.194
+    check: "tcp-ping"
+    port: 22
+  - name: PVL-7
+    url: 157.245.156.87
+    check: "tcp-ping"
+    port: 22
+  - name: PVL-8
+    url: 152.42.222.129
+    check: "tcp-ping"
+    port: 22
+  - name: PVL-9
+    url: 152.42.171.12
+    check: "tcp-ping"
+    port: 22
+  - name: PVN-4
+    url: 31.57.224.123
+    check: "tcp-ping"
+    port: 22
+  - name: PVN-5
+    url: 103.167.150.155
     check: "tcp-ping"
     port: 22
 
