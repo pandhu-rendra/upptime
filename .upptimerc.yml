@@ -14,7 +14,15 @@ sites:
   - name: PVL-1
     url: 128.199.189.59
     check: "tcp-ping"
-    port: 80
+    port: 22
+  - name: PVL-2
+    url: 152.42.242.111
+    check: "tcp-ping"
+    port: 22
+  - name: PVL-3
+    url: 139.59.240.217
+    check: "tcp-ping"
+    port: 22
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
