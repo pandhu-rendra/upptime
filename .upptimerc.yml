@@ -11,6 +11,8 @@ sites:
     url: https://pma.valarecloud.store
   - name: Database
     url: db.valgmsrv.my.id
+    check: "tcp-ping"
+    port: 3306
   - name: SH-1
     url: 128.199.223.57
     check: "tcp-ping"
