@@ -90,3 +90,12 @@ i18n:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *"          # Setiap hari jam 00:00 UTC
+  responseTime: "0 23 * * *"   # Setiap hari jam 23:00 UTC
+  staticSite: "0 1 * * *"      # Setiap hari jam 01:00 UTC
+  summary: "0 0 * * *"         # Setiap hari jam 00:00 UTC
+  updateTemplate: "0 0 * * *"  # Setiap hari jam 00:00 UTC
+  updates: "0 3 * * *"         # Setiap hari jam 03:00 UTC
+  uptime: "*/5 * * * *"        # Setiap 5 menit
