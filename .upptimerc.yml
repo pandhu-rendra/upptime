@@ -7,6 +7,10 @@ sites:
     url: https://panel.valarecloud.store
   - name: Billing
     url: https://bill.valarecloud.store
+  - name: phpMyAdmin
+    url: https://pma.valarecloud.store
+  - name: Database
+    url: db.valgmsrv.my.id
   - name: SH-1
     url: 128.199.223.57
     check: "tcp-ping"
