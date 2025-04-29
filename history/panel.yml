@@ -1,7 +1,7 @@
 url: https://panel.valarecloud.store
-status: up
-code: 200
-responseTime: 1412
-lastUpdated: 2025-04-28T23:21:26.694Z
+status: down
+code: 502
+responseTime: 9391
+lastUpdated: 2025-04-29T05:18:46.375Z
 startTime: 2025-04-21T14:26:49.044Z
 generator: Upptime <https://github.com/upptime/upptime>
