@@ -1,7 +1,7 @@
 url: https://bill.valarecloud.store
-status: up
-code: 200
-responseTime: 1240
-lastUpdated: 2025-04-28T23:21:28.133Z
+status: down
+code: 502
+responseTime: 7155
+lastUpdated: 2025-04-29T05:18:55.872Z
 startTime: 2025-04-21T14:26:52.192Z
 generator: Upptime <https://github.com/upptime/upptime>
